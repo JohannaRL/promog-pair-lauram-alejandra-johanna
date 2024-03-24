@@ -7,7 +7,7 @@ Objetivo : Practicar realizando ejercicios las lecciones aprendidas en las clase
 
 Herramientas : VSC , librerias Numpy , Pnadas.
 
-Pair 1️⃣: Numpy - Pendiente ejercicios reshape y transpose. 🦖
+Pair 1️⃣: Numpy - Pendiente ejercicios reshape y transpose. ✅
 
 Documento : pair-_numpy.ipynb
 
